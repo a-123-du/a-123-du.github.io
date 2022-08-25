@@ -1,3 +1,0 @@
-http://example.com/2022/08/25/My-first-blog/
-http://example.com/2022/08/24/hello-world/
-http://example.com/
